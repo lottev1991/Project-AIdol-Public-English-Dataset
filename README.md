@@ -11,10 +11,10 @@ She is also not a professional singer, however the singing should be of passable
 
 ## General Terms of Use
 - Please refer to the ``LICENSE`` for more information before using this dataset.
-- Please give proper attribution Lotte V (or @lottev1991) as the creator of this dataset (see ``LICENSE``).
+- Please give proper attribution to Lotte V (or @lottev1991) as the creator of this dataset (see ``LICENSE``).
 - You are allowed to use this dataset for research purposes.
 - You are allowed to release customized labels for this dataset without prior permission, as long as proper attribution is given.
-- You are allowed to use the labels for your own singing data; please keep in mind that you might need to manually adjust them.
+- You are allowed to use the labels for your own singing data; please keep in mind that you might need to manually adjust them. Please make sure that proper attribution is given.
 - You are allowed to use this dataset for pitch training for your own SVS model, as long as proper attribution is given.
 - This dataset is intended for parallel training _only_; no public models containing this voice are allowed to be released.
 - Please do not use this dataset with voice changers, such as RVC etc.
