@@ -1,5 +1,7 @@
+<p align="center">
 ![Project AI❤dol logo](logo_aidol.png)
 # Project AI❤dol Public English Dataset
+</p>
 
 Due to a severe lack of publicly available English SVS data sung by a female singer, I have decided to publish my own corpus.
 This is a selection of the full dataset; only English songs have been included, and only the very best singing data has been selected.
