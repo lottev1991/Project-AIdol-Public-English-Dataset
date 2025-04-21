@@ -24,6 +24,6 @@ It also features the extra phonemes `EP` (exhale), `GS` (glottal stop) and `vf` 
 - Please do not use this dataset to train any commercial models (see ``LICENSE``).
     - However, any models that are trained with this dataset are allowed to be used in commercial creative projects without prior permission.
 - Please do not use this dataset for any illegal purposes.
-- Please do not use this dataset for training unauthorized vocals (such as celebrity voices, etc).
+- Please do not use this dataset for training unauthorized vocals (such as celebrity voices, etc. (unless they have *explicitly* and *officially* authorized their voice to be used for AI model training)).
 - This dataset should never be used in association with any religious organizations.
     - However, any model resulting from this dataset is allowed to be used in music with religious themes, as long as the above is kept in mind.
