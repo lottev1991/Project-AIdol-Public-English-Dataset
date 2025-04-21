@@ -22,7 +22,8 @@ It also features the extra phonemes `EP` (exhale), `GS` (glottal stop) and `vf` 
 - You are allowed to use this dataset for pitch training for your own SVS model, as long as proper attribution is given.
 - Please do not use this dataset with voice changers, such as RVC etc.
 - Please do not use this dataset to train any commercial models (see ``LICENSE``).
-    - However, any models that are trained with this dataset are allowed to be used in commercial creative projects without prior permission.
+    - However, any models that are trained with this dataset are allowed to be used in commercial creative projects.
+        - You may have to ask permission to the model trainer to use their specific model in commercial projects.
 - Please do not use this dataset for any illegal purposes.
 - Please do not use this dataset for training unauthorized vocals (such as celebrity voices, etc. (unless they have *explicitly* and *officially* authorized their voice to be used for AI model training)).
 - This dataset should never be used in association with any religious organizations.
