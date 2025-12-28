@@ -15,15 +15,13 @@ It also features the extra phonemes `EP` (exhale), `GS` (glottal stop) and `vf` 
 ## General Terms of Use
 - Please refer to the ``LICENSE`` for more information before using this dataset.
 - This dataset is primarily intended for parallel training. Please do not publicly release any model featuring this voice without prior permission.
+- Commercial usage of the dataset is permitted (see ``LICENSE``).
 - Please give proper attribution to Lotte V (or @lottev1991) as the creator of this dataset (see ``LICENSE``).
 - You are allowed to use this dataset for research purposes.
 - You are allowed to release customized labels for this dataset without prior permission, as long as proper attribution is given.
 - You are allowed to use the labels for your own singing data; please keep in mind that you might need to manually adjust them. Please make sure that proper attribution is given.
 - You are allowed to use this dataset for pitch training for your own SVS model, as long as proper attribution is given.
 - Please do not use this dataset with voice changers, such as RVC etc.
-- Please do not use this dataset to train any commercial models (see ``LICENSE``).
-    - However, any models that are trained with this dataset are allowed to be used in commercial creative projects.
-        - You may have to ask permission to the model trainer to use their specific model in commercial projects.
 - Please do not use this dataset for any illegal purposes.
 - Please do not use this dataset for training unauthorized vocals (such as celebrity voices, etc. (unless they have *explicitly* and *officially* authorized their voice to be used for AI model training)).
 - This dataset should never be used in association with any religious organizations.
